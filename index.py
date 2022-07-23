@@ -1,1 +1,1 @@
-index
+print('hi')
